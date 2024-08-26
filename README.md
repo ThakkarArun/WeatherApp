@@ -18,4 +18,6 @@
 
 5. Upon Relaunching, app remeber last city you searched and automatically fill-in the Text Field. 
 
+6. Unit Test Cases Added as shown in screenshot below. 
+<img width="1408" alt="Screen Shot 2024-08-25 at 11 47 22 PM" src="https://github.com/user-attachments/assets/8d693d6a-5fb1-4c35-b0fe-9346863906de">
 
